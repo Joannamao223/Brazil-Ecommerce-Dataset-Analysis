@@ -1,5 +1,6 @@
 # Brazil-Ecommerce-Dataset-Analysis
 *Summary:
+  
   With the change of e-commerce to the retail format, data has become the "core" of enterprises that can become enterprises. This project uses Python to conduct a comprehensive analysis of the Brazilian e-commerce data set. It is hoped that enterprises can implement data analysis in the field of e-commerce, and explore the power data analysis of the next level. It is completed in 4 steps: asking questions and understanding data→potential clues→building model→summary and suggestions.
   
 *Conclusion:

@@ -14,7 +14,7 @@
 - Data cleaning
 - Build model
 - Summary and suggestions
-* [Technologies Used]-Python
+* [Technologies Used]-Pandas, Numpy, Matplotlib
 
 
 ## General Information

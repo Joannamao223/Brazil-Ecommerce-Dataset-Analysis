@@ -19,9 +19,9 @@ This project uses Python to conduct a comprehensive analysis of the Brazilian e-
 
 
 ## Technologies Used
--User Behavior Analysis
--Sales process analysis
--Seller's Market Analysis
+*User Behavior Analysis
+*Sales process analysis
+*Seller's Market Analysis
 
 
 ## Features
